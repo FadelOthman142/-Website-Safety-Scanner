@@ -136,8 +136,9 @@ Modify vendor detection algorithms in `calculate_vendor_detection_chance()`:
 
 ## License
 
-This project is released for educational and security research purposes. Use responsibly and in accordance with applicable laws and terms of service.
+This project is released under Apache 2.0 for educational and security research purposes. Use responsibly and in accordance with applicable laws and terms of service.
 
 ## Disclaimer
+
 
 This tool is designed for security research and educational purposes. Users are responsible for complying with applicable laws and website terms of service when using this tool.
